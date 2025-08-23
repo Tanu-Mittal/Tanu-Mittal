@@ -31,5 +31,7 @@ Passionate about coding, problem-solving, and building creative projects 🚀
 💡 I treat coding as a craft — where clarity, scalability, and maintainability are as important as solving the problem itself.  
 
 ---
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/tanu-mittal-24371028a)
 
 📌 *“Code, Build, Learn, Repeat.”*

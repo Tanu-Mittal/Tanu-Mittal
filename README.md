@@ -5,11 +5,11 @@ Passionate about coding, problem-solving, and building creative projects 🚀
 ---
 
 ## 🚀 About Me
-- 🌱 Currently exploring *Web Development & Cyber Security*
-- 💻 Improving my skills in *HTML, CSS, JavaScript*
-- 🧩 Love solving logic problems in *C, C++, Java, Python*
-- 🔨 Believer in learning by building — from scripts to complete projects
-- 🎯 2025 Goal: Consistently achieve small milestones that align with my long-term vision ✨
+- 🌱 Exploring *Web Development*
+- 💻 Improving skills in *HTML, CSS, JavaScript*
+- 🧩 Love solving logic problems in *C, Java, Python*
+- 🔨 Learning by building — from small scripts to complete projects
+- 🎯 2025 Goal: Achieve consistent small milestones aligned with my long-term vision ✨
 
 ---
 
@@ -27,8 +27,23 @@ Passionate about coding, problem-solving, and building creative projects 🚀
 
 ---
 
-## 🎉 Fun Fact
-💡 I treat coding as a craft — where clarity, scalability, and maintainability are as important as solving the problem itself.  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanu-Mittal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-Mittal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
+</p>
+
+---
+
+## 📌 Fun Fact
+💡 I treat coding as a craft — clarity, scalability, and maintainability matter as much as solving the problem.  
+
+---
+
+## 🌐 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/tanu-mittal-24371028a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 

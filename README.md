@@ -1,6 +1,6 @@
 # Hey 👋, I'm Tanu Mittal
 
-Passionate about coding, problem-solving, and building creative projects 🚀
+**Passionate about coding, problem-solving, and building creative projects 🚀**
 
 ---
 
@@ -42,8 +42,14 @@ Passionate about coding, problem-solving, and building creative projects 🚀
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/tanu-mittal-24371028a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tanu-mittal-24371028a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tanumittal7778@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 

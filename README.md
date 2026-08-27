@@ -1,34 +1,56 @@
-# Hey 👋, I'm Tanu Mittal
+<h1 align="center">Hey 👋, I'm Tanu Mittal</h1>
+<h3 align="center">Passionate about coding, problem-solving, and building creative projects</h3>
 
-**Passionate about coding, problem-solving, and building creative projects 🚀**
+<p align="center">
+  <a href="https://github.com/Tanu-Mittal">
+    <img src="https://komarev.com/ghpvc/?username=Tanu-Mittal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Exploring *Web Development*
-- 💻 Improving skills in *HTML, CSS, JavaScript*
-- 🧩 Love solving logic problems in *C, Java, Python*
+- 🌱 Exploring *Web Development*, with a focus on **frontend development**
+- 💻 Improving skills in **HTML, CSS, JavaScript**
+- 🧩 Love solving logic problems in **C, Java, Python**
+- 🎯 Currently preparing for **Deloitte campus recruitment** as a fresher
 - 🔨 Learning by building — from small scripts to complete projects
-- 🎯 Goal: Achieve consistent small milestones aligned with my long-term vision ✨
+- 🎨 Outside of code, I enjoy **art and craft**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" alt="Web dev skills"/>
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
 </p>
 
-### 💻 Programming & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,vscode" alt="Programming skills"/>
+### Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,mongodb" /><br/>
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
+</p>
+
+### Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
+
+### GenAI Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp" /><br/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/Imagen-000000?style=for-the-badge" alt="Imagen"/>
+  <img src="https://img.shields.io/badge/Multimodal%20RAG-333333?style=for-the-badge" alt="Multimodal RAG"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Tanu-Mittal">
@@ -45,13 +67,31 @@
   </a>
 </p>
 
-> If a stats card ever shows as a broken/plain link instead of an image, it's almost always the shared `vercel.app` service being rate-limited — just refresh the page after a minute, or click the link to open it directly.
+> If a card shows as a broken link instead of an image, it's the shared `vercel.app` service hitting GitHub's rate limit — refresh after a minute, or click through directly.
 
 ---
 
-## 📌 Fun Fact
+## 💻 What I'm Working On
 
-💡 I treat coding as a craft — clarity, scalability, and maintainability matter as much as solving the problem.
+- 🌐 Frontend projects using **HTML, CSS, and JavaScript**
+- 🧠 Practicing **Data Structures & Algorithms** in C, Java, and Python
+- 🎯 Preparing for **Deloitte's technical and HR interview rounds**
+- 🏢 Getting familiar with **SAP / enterprise technology** basics, in case it's part of my role
+
+---
+
+## 🎯 Current Learning Goals
+
+- Strengthening **JavaScript** and modern frontend practices
+- Improving **DSA problem-solving speed and accuracy**
+- Building confidence with **SAP or other enterprise tools** Deloitte may assign
+- Polishing communication and interview skills for placements
+
+---
+
+## ✨ Fun Fact
+
+💡 I treat coding as a craft — clarity, scalability, and maintainability matter as much as solving the problem. And when I need a break from screens, you'll usually find me doing art and craft 🎨
 
 ---
 

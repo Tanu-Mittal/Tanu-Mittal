@@ -54,10 +54,10 @@
 
 <p align="center">
   <a href="https://github.com/Tanu-Mittal">
-    <img src="https://gh-readme-profile.vercel.app/api?username=Tanu-Mittal" alt="Tanu's GitHub Stats" height="165em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Tanu-Mittal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tanu's GitHub Stats" height="165em" />
   </a>
   <a href="https://github.com/Tanu-Mittal">
-    <img src="https://github-stats-wy.vercel.app/langs/Tanu-Mittal/donut" alt="Tanu's Top Languages" height="165em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-Mittal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165em" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@
   </a>
 </p>
 
-> These cards use independent hosts (not the commonly rate-limited `github-readme-stats.vercel.app`), so they should be more stable. If one still ever breaks, click straight through to your profile via the link.
+> If a card ever shows as a broken link instead of an image, it's the shared `vercel.app` service hitting GitHub's rate limit — refresh after a minute, or click through directly. For a permanent fix, see the self-hosting steps we covered earlier.
 
 ---
 
